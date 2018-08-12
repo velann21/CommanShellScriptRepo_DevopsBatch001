@@ -14,3 +14,7 @@ echo "Utilization and most expensive processes:"
 top -b | head -3
 echo "number of processes : "
 
+echo "Health check completed"
+
+
+
